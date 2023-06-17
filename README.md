@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gorlevichd
 - 👀 I’m interested in Data Science and Econ
-- 🌱 I’m currently an undergrad at HSE, Moscow
+- 🌱 I’m currently pursuing a research Masters in Econ at HSE, Moscow
 
 <!---
 Gorlevichd/Gorlevichd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
