@@ -1,6 +1,14 @@
-# Gorlevich Daniil
+<div align="center">
+  
+  # Gorlevich Daniil
 
-## About Me
+</div>
+
+<div align="center">
+  
+  ## About Me
+
+</div>
 
 **Data scientist located in Moscow, Russia**
 
@@ -8,9 +16,9 @@
 
 🔬 Currently pursuing a Research Masters in Economics at HSE
 
-## My Stack
-
 <div align="center">
+
+  ## My Stack
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -23,10 +31,9 @@
   
 ## Projects
 
+<div align="center">
 
 ## Contacts
-
-<div align="center">
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorlevichd@gmail.com)
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yungdanik/)
