@@ -25,13 +25,20 @@
 
 <div align="center">
   
-## Pet Projects
+## Projects
 
 </div>
 
-📈 [QuantileToolsR](https://github.com/Gorlevichd/QuantileToolsR): `R`-package implementing Quantile-on-Quantile model and econometric tests for Quantile regression
+📈 [QuantileToolsR](https://github.com/Gorlevichd/QuantileToolsR): Quantile-on-Quantile model and econometric tests for Quantile regression ![R](https://img.shields.io/badge/R-c0cdd9)
 
-☑️ [schoice](https://github.com/Gorlevichd/schoice): `Python`-library for microeconomic models of voting
+☑️ [schoice](https://github.com/Gorlevichd/schoice): Library for microeconomic models of voting ![Python](https://img.shields.io/badge/Python-2b5b84)
+
+🚗 [carsharing_simulation](https://github.com/Gorlevichd/carsharing_simulation): Simulation of carsharing routes in Moscow ![Jupyter](https://img.shields.io/badge/Jupyter-e46e2e)
+
+🧓 [pension_fund_PD](https://github.com/Gorlevichd/pension_fund_PD): Probability of default modelling for Russian private pension funds ![Jupyter](https://img.shields.io/badge/Jupyter-e46e2e)
+
+🏦: [markov_credit_migrations](https://github.com/Gorlevichd/markov_credit_migrations): Credit rating Markov migration modelling for S&P ratings ![Jupyter](https://img.shields.io/badge/Jupyter-e46e2e)
+
 
 <div align="center">
 
