@@ -5,6 +5,12 @@
   **Data scientist located in Moscow, Russia**
 </div>
 
+<div align="center">
+  
+  # About
+
+</div>
+
 📚 Interested in ML and Economics
 
 🔬 Currently pursuing a Research Masters in Economics at HSE
