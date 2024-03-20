@@ -2,9 +2,8 @@
   
   # Gorlevich Daniil
 
+  **Data scientist located in Moscow, Russia**
 </div>
-
-**Data scientist located in Moscow, Russia**
 
 📚 Interested in ML and Economics
 
