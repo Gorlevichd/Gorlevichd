@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  ## About Me
+  **About Me**
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  ## My Stack
+  **Stack**
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -30,7 +30,7 @@
 
 <div align="center">
   
-  ## Projects
+  **Projects**
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-  ## Contacts
+  **Contact Me**
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorlevichd@gmail.com)
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yungdanik/)
