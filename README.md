@@ -2,8 +2,8 @@
 
 **Data scientist located in Moscow, Russia**
 
-- Interested in ML and Economics
-- Currently pursuing a Research Masters in Economics at HSE
+- 📚 Interested in ML and Economics
+- 🔬 Currently pursuing a Research Masters in Economics at HSE
 
 # My Stack
 
