@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-  
-  ## About Me
-
-</div>
-
 **Data scientist located in Moscow, Russia**
 
 📚 Interested in ML and Economics
@@ -28,8 +22,16 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+<div align="center">
   
-## Projects
+## Pet Projects
+
+</div>
+
+📈 [QuantileToolsR](https://github.com/Gorlevichd/QuantileToolsR): `R`-package implementing Quantile-on-Quantile model and econometric tests for Quantile regression
+
+☑️ [schoice](https://github.com/Gorlevichd/schoice): `Python`-library for microeconomic models of voting
 
 <div align="center">
 
