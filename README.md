@@ -36,7 +36,7 @@
 
 🧓 [pension_fund_PD](https://github.com/Gorlevichd/pension_fund_PD): Probability of default modelling for Russian private pension funds ![Jupyter](https://img.shields.io/badge/Jupyter-e46e2e)
 
-🏦: [markov_credit_migrations](https://github.com/Gorlevichd/markov_credit_migrations): Credit rating Markov migration modelling for S&P ratings ![Jupyter](https://img.shields.io/badge/Jupyter-e46e2e)
+🏦 [markov_credit_migrations](https://github.com/Gorlevichd/markov_credit_migrations): Credit rating Markov migration modelling for S&P ratings ![Jupyter](https://img.shields.io/badge/Jupyter-e46e2e)
 
 
 <div align="center">
